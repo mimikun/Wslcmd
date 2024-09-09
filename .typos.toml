@@ -1,0 +1,7 @@
+[default.extend-words]
+
+[files]
+extend-exclude = [
+  # NOTE: has many typos
+  "CHANGELOG.md",
+]

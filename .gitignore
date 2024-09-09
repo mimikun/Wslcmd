@@ -1,0 +1,5 @@
+# Common to all platforms
+*.zip
+*.patch
+node_modules
+.textlintcache
